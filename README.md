@@ -1,4 +1,4 @@
-# toyota-corolla-data-excelr
+# Car Resell Price
 Assignment for Multi Linear Regression
 
 ### Problem Statement
